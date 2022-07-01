@@ -1,0 +1,45 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background:black;
+}
+h2{
+  color:antiquewhite;
+}
+.button{
+  padding: 22px;
+  margin: 2px;
+  border: 2px solid black;
+  border-radius:10px;
+  cursor: pointer;
+}
+.row{
+  margin: 7px;
+}
+.row input{
+  margin: 0px;
+  padding: 5px 20px;
+   border: 2px solid black;
+  border-radius:5px;
+  font-size:18px;
+}
+.container{
+  padding: 10px;
+  margin: 20px;
+  border-radius:20px;
+
+}
+#C{
+  background:#FF8700;
+  font-size:20px;
+  padding: 20px 120px 20px 120px;
+  margin: 2px;
+}
+#num-col{
+  background:#AFAFAF ;
+  font-size:20px;
+}
+#sym-col{
+  background: #525252;
+  font-size:20px;
+}
