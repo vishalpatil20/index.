@@ -4,12 +4,12 @@ html, body {
   background:black;
 }
 h2{
-  color:antiquewhite;
+  color:rgb(239, 228, 214);
 }
 .button{
   padding: 22px;
   margin: 2px;
-  border: 2px solid black;
+  border: 2px solid rgb(212, 210, 218);
   border-radius:10px;
   cursor: pointer;
 }
@@ -30,7 +30,7 @@ h2{
 
 }
 #C{
-  background:#FF8700;
+  background:#041ee049;
   font-size:20px;
   padding: 20px 120px 20px 120px;
   margin: 2px;
@@ -40,6 +40,6 @@ h2{
   font-size:20px;
 }
 #sym-col{
-  background: #525252;
+  background: #bce172;
   font-size:20px;
 }
